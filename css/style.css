@@ -1,0 +1,64 @@
+/*-----------------Esta es la parte del header------------ -*/
+
+
+header{
+    justify-content: center;
+    background-color: beige;
+}
+
+img{
+    margin-top: 100%;
+    margin-left: 20px;
+    margin-top: 20px;
+    
+}
+/*----------------Aca es el navbar--------------------*/
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.opciones :hover{
+    color: #F0B308;
+}
+
+.opciones{
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+    display: flex;
+    margin-left: 50px;
+    margin-right: 50px;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+}
+
+.secccions :hover{
+    color: black;
+}
+.navegacion{
+    background-color: peru;
+}
+/*-----------------Aca es el body-------------------------*/
+main {
+    background-color: rgba(206, 114, 22, 0.822);
+}
+
+.Login{
+    background-color: rgb(190, 136, 20);
+}
+
+.btnOn{
+    color: brown;
+    border-radius: 25px;
+}
+.card{
+    border-radius: 15px solid;
+    margin-top:50px ;
+}
+
+/*------------------Aca va el footer-----------------------*/
+footer{
+    margin-top: 125px;
+}
